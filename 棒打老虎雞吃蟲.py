@@ -57,5 +57,3 @@ while True:
     if play == "3":
         break
 print("遊戲結束")
-
-    
